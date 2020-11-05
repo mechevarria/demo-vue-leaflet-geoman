@@ -49,7 +49,6 @@ export default {
       })
       this.map.on('pm:create', ({shape, layer}) => {
         this.successMsg(`Created ${shape} with ${layer._latlngs}`)
-        console.log(layer)
       })
     }
   }
