@@ -19,6 +19,7 @@
   "dependencies": {
     "@coreui/coreui": "^3.2.2",
     "@coreui/icons": "^1.0.1",
+    "@geoman-io/leaflet-geoman-free": "^2.7.0",
     "@popperjs/core": "^2.4.4",
     "axios": "^0.20.0",
     "bootstrap-vue": "^2.16.0",
